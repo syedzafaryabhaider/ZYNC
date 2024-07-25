@@ -51,7 +51,7 @@ Simply open the `index.html` file in your preferred web browser to start using t
 ## <a name="link">🔗 Link</a>
 
 You can access the live version of ZYNC on the following link:
-[ZYNC Live Demo]()
+[ZYNC Live Demo](https://zync-blue.vercel.app/)
 
 ## <a name="contributing">🤝 Contributing</a>
 
